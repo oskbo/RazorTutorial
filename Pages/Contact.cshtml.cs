@@ -12,7 +12,7 @@ namespace RazorTutorial.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "This is a message from the rear end of the code.";
         }
     }
 }
